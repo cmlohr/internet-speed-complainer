@@ -1,1 +1,1 @@
-internet-speed-complainer
+Internet Speed Complainer.  This is a twitter bot that complains when your internet speed dips below the speed of your contract (edited in the code by you).  Areas where you need to change the code are clearly marked.  Place holder f-string provided, change this and @ your isp for maximum complaining.
